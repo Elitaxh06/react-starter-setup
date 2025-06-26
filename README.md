@@ -33,20 +33,25 @@ Podés usar cualquiera de los siguientes comandos, según cómo tengas configura
 ```
 
 **Con HTTPS**
+
 ```bash
     git clone https://github.com/Elitaxh06/react-starter-setup.git
 ```
 
-
 2. Instalar dependencias:
+
 ```bash
     npm install
-    ```
-3.Iniciar el servidor de desarrollo:
+```
+
+3. Iniciar el servidor de desarrollo:
+
 ```bash
     npm start
 ```
+
 4. Abrir el navegador en `http://localhost:3000`.
+
 
 ---
 
