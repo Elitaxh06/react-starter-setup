@@ -7,6 +7,7 @@ Perfecto para escribir tu aplicación desde cero y comprender cada parte del pro
 
 ```bash
 npm install react react-dom
+```
 ---
 
 ## Qué incluye
@@ -23,9 +24,19 @@ npm install react react-dom
 
 1. Clonar el repositorio:
 
+Podés usar cualquiera de los siguientes comandos, según cómo tengas configurado Git:
+
+**Con SSH**
+
 ```bash
-   git clone 
-   ```
+    git clone git@github.com:Elitaxh06/react-starter-setup.git
+```
+
+**Con HTTPS**
+```bash
+    git clone https://github.com/Elitaxh06/react-starter-setup.git
+```
+
 
 2. Instalar dependencias:
 ```bash
@@ -34,7 +45,7 @@ npm install react react-dom
 3.Iniciar el servidor de desarrollo:
 ```bash
     npm start
-    ```
+```
 4. Abrir el navegador en `http://localhost:3000`.
 
 ---
@@ -42,12 +53,11 @@ npm install react react-dom
 ## Estructura del proyecto
 
 ```bash
-/src
-  index.js          # Archivo principal, vacío para que comiences desde cero
-/public
-  index.html        # Plantilla HTML base
-webpack.config.js   # Configuración de Webpack
-babel.config.json   # Configuración de Babel
-package.json        # Configuración de npm y dependencias
+    /src
+      index.js          # Archivo principal, vacío para que comiences desde cero
+    /public
+      index.html        # Plantilla HTML base
+    webpack.config.js   # Configuración de Webpack
+    babel.config.json   # Configuración de Babel
+    package.json        # Configuración de npm y dependencias
 ```
-"# react-starter-setup" 
